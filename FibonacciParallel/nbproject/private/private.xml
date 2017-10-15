@@ -2,6 +2,10 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/simon/Desktop/git/tinf/4/processes-and-threads-Sdanninger/FibonacciParallel/test/at/htlleonding/fibonacci/FibonacciTest.java</file>
+            <file>file:/home/simon/Desktop/git/tinf/4/processes-and-threads-Sdanninger/FibonacciParallel/src/at/htlleonding/fibonacci/SingleNumberRunnable.java</file>
+            <file>file:/home/simon/Desktop/git/tinf/4/processes-and-threads-Sdanninger/FibonacciParallel/src/at/htlleonding/fibonacci/Fibonacci.java</file>
+        </group>
     </open-files>
 </project-private>
